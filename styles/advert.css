@@ -1,0 +1,24 @@
+
+.top-header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 600px;
+}
+
+.top-header .language {
+    margin-right: 10px;
+    cursor: pointer;
+    margin-left: 700px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
